@@ -5,11 +5,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
-namespace Phase_1.Models.ProjectModels
+namespace Phase_1.Models
 {    
     public class Category
     {
-
         public int Id { get; set; }
 
         public string Name { get; set; }

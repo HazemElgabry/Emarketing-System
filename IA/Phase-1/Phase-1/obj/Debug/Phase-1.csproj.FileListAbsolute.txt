@@ -108,3 +108,7 @@ C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\P
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.InitialMigration1.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables1.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.id.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.validation.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.finalvalidation.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.update.resources

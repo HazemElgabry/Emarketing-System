@@ -190,6 +190,22 @@
     <Compile Include="Migrations\202004131146249_ProductAndCategoryTables1.Designer.cs">
       <DependentUpon>202004131146249_ProductAndCategoryTables1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004131734486_id.cs" />
+    <Compile Include="Migrations\202004131734486_id.Designer.cs">
+      <DependentUpon>202004131734486_id.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004132021598_validation.cs" />
+    <Compile Include="Migrations\202004132021598_validation.Designer.cs">
+      <DependentUpon>202004132021598_validation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004132047060_finalvalidation.cs" />
+    <Compile Include="Migrations\202004132047060_finalvalidation.Designer.cs">
+      <DependentUpon>202004132047060_finalvalidation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004132146394_update.cs" />
+    <Compile Include="Migrations\202004132146394_update.Designer.cs">
+      <DependentUpon>202004132146394_update.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -198,6 +214,7 @@
     <Compile Include="Models\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\CategoryViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -344,6 +361,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004131146249_ProductAndCategoryTables1.resx">
       <DependentUpon>202004131146249_ProductAndCategoryTables1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004131734486_id.resx">
+      <DependentUpon>202004131734486_id.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004132021598_validation.resx">
+      <DependentUpon>202004132021598_validation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004132047060_finalvalidation.resx">
+      <DependentUpon>202004132047060_finalvalidation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004132146394_update.resx">
+      <DependentUpon>202004132146394_update.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

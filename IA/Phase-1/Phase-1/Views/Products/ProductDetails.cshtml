@@ -1,4 +1,4 @@
-﻿@model Phase_1.Models.ProjectModels.Product
+﻿@model Phase_1.Models.Product
 
 @{
     ViewBag.Title = "ProductDetails";
@@ -48,7 +48,7 @@
                             <p>$5</p>
                         </div>
                     </div>
-                    <a href="#" class="genric-btn info radius e-large">Update</a>
+                    @Html.ActionLink("Update","UpdateProduct", null, new { @class = "genric-btn info radius e-large"})
                     <a href="#" class="genric-btn danger radius e-large">Delete</a>
                 </div>
             </div>
