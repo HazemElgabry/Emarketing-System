@@ -27,7 +27,9 @@ namespace Phase_1.Models
        
         [Display(Name = "Short description")]
         public string Description { get; set; }
-        
+
+        public int CategoryID { get; set; }
+
         public Category Category { get; set; }
     }
 }

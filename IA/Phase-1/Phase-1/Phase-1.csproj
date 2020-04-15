@@ -178,10 +178,6 @@
     <Compile Include="Migrations\202004130056055_InitialMigration.Designer.cs">
       <DependentUpon>202004130056055_InitialMigration.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202004130349414_InitialMigration1.cs" />
-    <Compile Include="Migrations\202004130349414_InitialMigration1.Designer.cs">
-      <DependentUpon>202004130349414_InitialMigration1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202004130405145_ProductAndCategoryTables.cs" />
     <Compile Include="Migrations\202004130405145_ProductAndCategoryTables.Designer.cs">
       <DependentUpon>202004130405145_ProductAndCategoryTables.cs</DependentUpon>
@@ -190,21 +186,17 @@
     <Compile Include="Migrations\202004131146249_ProductAndCategoryTables1.Designer.cs">
       <DependentUpon>202004131146249_ProductAndCategoryTables1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202004131734486_id.cs" />
-    <Compile Include="Migrations\202004131734486_id.Designer.cs">
-      <DependentUpon>202004131734486_id.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202004132021598_validation.cs" />
     <Compile Include="Migrations\202004132021598_validation.Designer.cs">
       <DependentUpon>202004132021598_validation.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202004132047060_finalvalidation.cs" />
-    <Compile Include="Migrations\202004132047060_finalvalidation.Designer.cs">
-      <DependentUpon>202004132047060_finalvalidation.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202004132146394_update.cs" />
     <Compile Include="Migrations\202004132146394_update.Designer.cs">
       <DependentUpon>202004132146394_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004141753136_go.cs" />
+    <Compile Include="Migrations\202004141753136_go.Designer.cs">
+      <DependentUpon>202004141753136_go.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -328,10 +320,11 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\ProjectViews\_ProjectLayout.cshtml" />
-    <Content Include="Views\Products\index.cshtml" />
+    <Content Include="Views\Products\Index.cshtml" />
     <Content Include="Views\Products\ProductDetails.cshtml" />
     <Content Include="Views\Products\AddProduct.cshtml" />
     <Content Include="Views\Products\UpdateProduct.cshtml" />
+    <Content Include="Views\Products\Filter.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -353,26 +346,20 @@
     <EmbeddedResource Include="Migrations\202004130056055_InitialMigration.resx">
       <DependentUpon>202004130056055_InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004130349414_InitialMigration1.resx">
-      <DependentUpon>202004130349414_InitialMigration1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004130405145_ProductAndCategoryTables.resx">
       <DependentUpon>202004130405145_ProductAndCategoryTables.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004131146249_ProductAndCategoryTables1.resx">
       <DependentUpon>202004131146249_ProductAndCategoryTables1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004131734486_id.resx">
-      <DependentUpon>202004131734486_id.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004132021598_validation.resx">
       <DependentUpon>202004132021598_validation.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004132047060_finalvalidation.resx">
-      <DependentUpon>202004132047060_finalvalidation.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004132146394_update.resx">
       <DependentUpon>202004132146394_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004141753136_go.resx">
+      <DependentUpon>202004141753136_go.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -105,10 +105,231 @@ C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\P
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase-1.pdb
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.InitialMigration.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.GenerateResource.cache
-C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.InitialMigration1.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables1.resources
-C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.id.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.validation.resources
-C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.finalvalidation.resources
 C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.update.resources
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Phase-1.dll.config
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Phase-1.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Phase-1.pdb
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\csc.exe
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\csc.exe.config
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\csc.rsp
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\csi.exe
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\csi.exe.config
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\csi.rsp
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.AppContext.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Collections.Immutable.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Console.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.IO.Compression.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.IO.FileSystem.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.IO.Pipes.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.AccessControl.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.Claims.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.ValueTuple.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Xml.XPath.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\vbc.exe
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\vbc.exe.config
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\vbc.rsp
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\VBCSCompiler.exe
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\roslyn\VBCSCompiler.exe.config
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Antlr3.Runtime.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\EntityFramework.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\EntityFramework.SqlServer.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Google.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Web.Infrastructure.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Newtonsoft.Json.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Owin.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Helpers.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Mvc.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Optimization.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Razor.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.WebPages.Deployment.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.WebPages.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.WebPages.Razor.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\WebGrease.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Helpers.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Mvc.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Optimization.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.Razor.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.WebPages.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.WebPages.Deployment.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\System.Web.WebPages.Razor.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Newtonsoft.Json.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Antlr3.Runtime.pdb
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\EntityFramework.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\EntityFramework.SqlServer.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Google.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase-1.csprojAssemblyReference.cache
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.InitialMigration.resources
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables.resources
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables1.resources
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.validation.resources
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.update.resources
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.GenerateResource.cache
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.CoreCompileInputs.cache
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.CopyComplete
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase-1.dll
+D:\ALLprojects\H2\Emarketing-System\IA\Phase-1\Phase-1\obj\Debug\Phase-1.pdb
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Phase-1.dll.config
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Phase-1.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Phase-1.pdb
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\csc.exe
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\csc.exe.config
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\csc.rsp
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\csi.exe
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\csi.exe.config
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\csi.rsp
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.AppContext.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Console.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.Claims.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\vbc.exe
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\vbc.exe.config
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\vbc.rsp
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Antlr3.Runtime.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\EntityFramework.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\EntityFramework.SqlServer.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Newtonsoft.Json.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Owin.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Helpers.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Mvc.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Optimization.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Razor.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.WebPages.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.WebPages.Razor.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\WebGrease.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Helpers.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Mvc.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Optimization.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.Razor.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.WebPages.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\System.Web.WebPages.Razor.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Newtonsoft.Json.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Antlr3.Runtime.pdb
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\EntityFramework.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\EntityFramework.SqlServer.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase-1.csprojAssemblyReference.cache
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.InitialMigration.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.ProductAndCategoryTables1.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.validation.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.update.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.GenerateResource.cache
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.CoreCompileInputs.cache
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase-1.csproj.CopyComplete
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase-1.dll
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase-1.pdb
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\EssamProj\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.go.resources
+C:\Users\hazze\Desktop\Hazem\كتب حازم\3rd Season\Second term\IA\Project\Phase-1\IA\Phase-1\Phase-1\obj\Debug\Phase_1.Migrations.go.resources
