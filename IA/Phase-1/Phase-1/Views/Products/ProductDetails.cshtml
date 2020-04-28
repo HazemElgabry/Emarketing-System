@@ -41,31 +41,31 @@
                         @Html.DisplayName(Model.Name) <br>
                         @if (Model.CategoryID == 1)
                         {
-                            Html.DisplayName("  ( Men )");
+                                                      <h5> ( Men ) </h5>
                         }
                         else
                         {
                             if (Model.CategoryID == 2)
                             {
-                                Html.DisplayName("  ( Women )");
+                                                      <h5> ( Women ) </h5>
                             }
                             else
                             {
                                 if (Model.CategoryID == 3)
                                 {
-                                    Html.DisplayName("  ( Shoes )");
+                                                      <h5> ( Shoes ) </h5>
                                 }
                                 else
                                 {
                                     if (Model.CategoryID == 4)
                                     {                                        
-                                        Html.DisplayName("  ( Nicklas )");                                        
+                                                      <h5> ( Nicklas ) </h5>
                                     }
                                     else
                                     {
                                         if (Model.CategoryID == 5)
                                         {
-                                            Html.DisplayName("  ( Rings )");
+                                                      <h5> ( Rings ) </h5>
                                         }
                                     }
                                 }
@@ -78,7 +78,7 @@
 
                     <div class="card_area">
                         <div class="product_count_area">
-                            <p>@Html.DisplayName(Model.Price + "$") <br></p>
+                            <p>@Html.DisplayName(Model.Price + " $") <br></p>
                         </div>
                     </div>
                     @Html.ActionLink("Update", "UpdateProduct", null, new { Id = Model.Id }, new { @class = "genric-btn info radius e-large" })

@@ -102,23 +102,43 @@ namespace Phase_1.Controllers.ProjectControllers
         }
 
         [HttpPost]
-        public ActionResult UpdateProduct(CategoryViewModel cvm)
+        public ActionResult UpdateProduct(CategoryViewModel cvm, HttpPostedFileBase file)
         {
 
             var Categories = db.categories.ToList();
-            if (!ModelState.IsValid)
+            if (file != null && file.ContentLength > 0)
+                try
+                {
+                    string path = Path.Combine(Server.MapPath("~/Images"), Path.GetFileName(file.FileName));
+                    file.SaveAs(path);
+                    cvm.Product.Image = file.FileName;
+                }
+                catch (Exception ex)
+                {
+                    ViewBag.Message = "ERROR:" + ex.Message.ToString();
+                }
+            else
             {
-                cvm.Categories = Categories;
-                return View("UpdateProduct", cvm);
+                if (!ModelState.IsValid)
+                {
+                    cvm.Categories = Categories;
+                    return View("UpdateProduct", cvm);
 
+                }
             }
 
-            var CustomerDB = db.products.Single(c => c.Id == cvm.Product.Id);
+            var ProductDB = db.products.Single(c => c.Id == cvm.Product.Id);
 
-            CustomerDB.Name = cvm.Product.Name;
-            CustomerDB.Price = cvm.Product.Price;
-            CustomerDB.Image = cvm.Product.Image;
-            CustomerDB.Description = cvm.Product.Description;
+            ProductDB.Name = cvm.Product.Name;
+            ProductDB.Price = cvm.Product.Price;
+            ProductDB.Image = cvm.Product.Image;
+            ProductDB.Description = cvm.Product.Description;
+            var v = db.categories.Single(c => c.Id == ProductDB.CategoryID);
+            v.Number_of_products--;
+            v = db.categories.Single(c => c.Id == cvm.Product.CategoryID);
+            v.Number_of_products++;
+            ProductDB.CategoryID = cvm.Product.CategoryID;
+
 
             db.SaveChanges();
 
