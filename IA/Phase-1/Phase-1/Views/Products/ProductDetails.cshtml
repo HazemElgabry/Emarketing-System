@@ -73,7 +73,17 @@
                         }
                     </h3>
                     <p>
-                        @Html.DisplayName(Model.Description)
+                        @{
+                            if (Model.Description == null)
+                            {
+                               <p>No Descreption</p>
+                            }
+                            else
+                            {
+                                Html.DisplayName(Model.Description);
+                            }
+
+                        }
                     </p>
 
                     <div class="card_area">
