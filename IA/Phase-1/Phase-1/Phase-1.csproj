@@ -198,8 +198,13 @@
     <Compile Include="Migrations\202004141753136_go.Designer.cs">
       <DependentUpon>202004141753136_go.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004280231364_CreateCartTable.cs" />
+    <Compile Include="Migrations\202004280231364_CreateCartTable.Designer.cs">
+      <DependentUpon>202004280231364_CreateCartTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Cart.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Category.cs" />
@@ -360,6 +365,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004141753136_go.resx">
       <DependentUpon>202004141753136_go.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004280231364_CreateCartTable.resx">
+      <DependentUpon>202004280231364_CreateCartTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
