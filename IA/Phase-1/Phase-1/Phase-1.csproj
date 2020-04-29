@@ -202,6 +202,10 @@
     <Compile Include="Migrations\202004280231364_CreateCartTable.Designer.cs">
       <DependentUpon>202004280231364_CreateCartTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004290125120_AlterTableToPKandFK.cs" />
+    <Compile Include="Migrations\202004290125120_AlterTableToPKandFK.Designer.cs">
+      <DependentUpon>202004290125120_AlterTableToPKandFK.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Cart.cs" />
@@ -368,6 +372,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004280231364_CreateCartTable.resx">
       <DependentUpon>202004280231364_CreateCartTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004290125120_AlterTableToPKandFK.resx">
+      <DependentUpon>202004290125120_AlterTableToPKandFK.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
